@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/signets-pvt-gr2/static/css/main.2877b462.chunk.css",
+    "main.js": "/signets-pvt-gr2/static/js/main.e4d7218d.chunk.js",
+    "main.js.map": "/signets-pvt-gr2/static/js/main.e4d7218d.chunk.js.map",
+    "runtime-main.js": "/signets-pvt-gr2/static/js/runtime-main.5bf7365a.js",
+    "runtime-main.js.map": "/signets-pvt-gr2/static/js/runtime-main.5bf7365a.js.map",
+    "static/js/2.8ca0c8ea.chunk.js": "/signets-pvt-gr2/static/js/2.8ca0c8ea.chunk.js",
+    "static/js/2.8ca0c8ea.chunk.js.map": "/signets-pvt-gr2/static/js/2.8ca0c8ea.chunk.js.map",
+    "index.html": "/signets-pvt-gr2/index.html",
+    "static/css/main.2877b462.chunk.css.map": "/signets-pvt-gr2/static/css/main.2877b462.chunk.css.map",
+    "static/js/2.8ca0c8ea.chunk.js.LICENSE.txt": "/signets-pvt-gr2/static/js/2.8ca0c8ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf7365a.js",
+    "static/js/2.8ca0c8ea.chunk.js",
+    "static/css/main.2877b462.chunk.css",
+    "static/js/main.e4d7218d.chunk.js"
+  ]
+}
